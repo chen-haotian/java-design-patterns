@@ -2,26 +2,20 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
-    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <artifactId>java-design-patterns</artifactId>
+        <groupId>com.matrix.study</groupId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
 
-    <groupId>com.matrix.study</groupId>
-    <artifactId>java-design-patterns</artifactId>
-    <packaging>pom</packaging>
-    <version>1.0-SNAPSHOT</version>
-    <description>设计模式</description>
-    <modules>
-        <module>oop-principle</module>
-        <module>singleton</module>
-        <module>simple-factory</module>
-    </modules>
+    <modelVersion>4.0.0</modelVersion>
+    <artifactId>oop-principle</artifactId>
+    <description>7大原则</description>
 
     <properties>
-        <java.version>8</java.version>
         <maven.compiler.source>8</maven.compiler.source>
         <maven.compiler.target>8</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
-
-
 
 </project>
