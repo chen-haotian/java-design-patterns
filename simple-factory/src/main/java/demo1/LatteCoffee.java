@@ -7,17 +7,9 @@ package demo1;
  * @Description: 拿铁咖啡
  */
 public class LatteCoffee extends Coffee {
+
+    // 使用构造的方式给成员变量赋值
     public LatteCoffee() {
         super.name = "拿铁咖啡";
-    }
-
-    @Override
-    public void addMilk() {
-        System.out.println("牛奶");
-    }
-
-    @Override
-    public void addSugar() {
-        System.out.println("7分糖");
     }
 }

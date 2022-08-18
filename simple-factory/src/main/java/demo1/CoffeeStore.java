@@ -20,6 +20,9 @@ public class CoffeeStore {
         } else if ("americano".equals(type)) {
             coffee = new AmericanoCoffee();
         }
+        // 加配料
+        coffee.addMilk();
+        coffee.addSugar();
         return coffee;
     }
 }

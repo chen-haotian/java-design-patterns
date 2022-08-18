@@ -13,8 +13,6 @@ public class Client {
         // 根据入参咖啡类型创建咖啡
         // Coffee coffee = coffeeStore.createCoffee("latte");
         Coffee coffee = coffeeStore.createCoffee("americano");
-        System.out.println(coffee.name);
-        coffee.addMilk();
-        coffee.addSugar();
+        System.out.println(coffee);
     }
 }
