@@ -31,3 +31,11 @@
 ### 3.2 结构型
 
 ### 3.3 行为型
+
+## 4、学习资料来源
+
+Java 全栈知识体系博客：https://www.pdai.tech/
+
+bugstack 虫洞栈博客：https://bugstack.cn/
+
+黑马程序员（Java设计模式学习视频）：https://www.bilibili.com/video/BV1Np4y1z7BU?spm_id_from=333.337.search-card.all.click
