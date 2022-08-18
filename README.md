@@ -28,7 +28,7 @@
 
 工厂方法模式：https://github.com/chen-haotian/java-design-patterns/blob/main/doc/5.%E5%B7%A5%E5%8E%82%E6%96%B9%E6%B3%95%E6%A8%A1%E5%BC%8F.md
 
-抽象工厂模式：
+抽象工厂模式：https://github.com/chen-haotian/java-design-patterns/blob/main/doc/6.%E6%8A%BD%E8%B1%A1%E5%B7%A5%E5%8E%82%E6%A8%A1%E5%BC%8F.md
 
 ### 3.2 结构型
 
