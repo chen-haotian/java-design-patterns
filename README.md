@@ -26,7 +26,7 @@
 
 简单工厂（不是23种设计模式）：https://github.com/chen-haotian/java-design-patterns/blob/main/doc/4.%E7%AE%80%E5%8D%95%E5%B7%A5%E5%8E%82.md
 
-工厂方法模式：
+工厂方法模式：https://github.com/chen-haotian/java-design-patterns/blob/main/doc/5.%E5%B7%A5%E5%8E%82%E6%96%B9%E6%B3%95%E6%A8%A1%E5%BC%8F.md
 
 ### 3.2 结构型
 
