@@ -10,7 +10,7 @@ public class Client {
     public static void main(String[] args) {
         // 创建一个咖啡店对象
         CoffeeStore coffeeStore = new CoffeeStore();
-        // 根据入参咖啡类型创建咖啡
+        // 根据入参咖啡类型制造咖啡
         // Coffee coffee = coffeeStore.createCoffee("latte");
         Coffee coffee = coffeeStore.createCoffee("americano");
         System.out.println(coffee);
