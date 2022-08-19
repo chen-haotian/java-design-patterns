@@ -8,10 +8,9 @@ package demo2;
  */
 public class HuaweiFactory extends DigitalFactory<Digital> {
 
-
     @Override
     public Phone createPhone() {
-        return new HuaweiPhone("Huawei Mate50 Pro");
+        return new HuaweiMate50Pro("Huawei Mate50 Pro");
     }
 
     @Override
