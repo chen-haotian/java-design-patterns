@@ -32,7 +32,7 @@
 
 原型模式：https://github.com/chen-haotian/java-design-patterns/blob/main/doc/7.%E5%8E%9F%E5%9E%8B%E6%A8%A1%E5%BC%8F.md
 
-建造者模式：
+建造者模式：https://github.com/chen-haotian/java-design-patterns/blob/main/doc/8.%E5%BB%BA%E9%80%A0%E8%80%85%E6%A8%A1%E5%BC%8F.md
 
 ### 3.2 结构型
 
