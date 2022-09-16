@@ -32,6 +32,8 @@
 
 原型模式：https://github.com/chen-haotian/java-design-patterns/blob/main/doc/7.%E5%8E%9F%E5%9E%8B%E6%A8%A1%E5%BC%8F.md
 
+建造者模式：
+
 ### 3.2 结构型
 
 ### 3.3 行为型
